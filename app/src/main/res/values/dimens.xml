@@ -16,4 +16,5 @@
     <dimen name="dimen_40">40dp</dimen>
     <dimen name="dimen_86">86dp</dimen>
     <dimen name="dimen_76">70dp</dimen>
+    <dimen name="dimen_45">45dp</dimen>
 </resources>
